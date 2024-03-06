@@ -81,7 +81,6 @@ INDEX VERSION 1.134+T:\HuynhVanMinh_20065891\.metadata\.plugins\org.eclipse.jdt.
 1712135093.index
 979289986.index
 3799063248.index
-72072415.index
 3172281986.index
 1707541673.index
 2902143364.index
