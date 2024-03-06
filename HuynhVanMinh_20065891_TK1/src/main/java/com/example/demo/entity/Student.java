@@ -27,7 +27,7 @@ public class Student implements Serializable {
 	private int tuoi;
 	private String email;
 
-	public int getMaSV() {
+	public int  getMaSV() {
 		return maSV;
 	}
 
