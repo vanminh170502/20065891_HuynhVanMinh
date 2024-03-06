@@ -30,11 +30,11 @@ public class StudentController {
         return dao.findAll();
     }
 
-    @GetMapping("findStudentById/{id}")
+    @GetMapping("findStudentById/{maSV}")
     public Student findOrder(@PathVariable int maSV) {
         return dao.findStudentById(maSV);
     }
-    @DeleteMapping("delete/{id}")
+    @DeleteMapping("delete/{maSV}")
     public String remove(@PathVariable int maSV)   {
     	return dao.delete(maSV);
 	}
